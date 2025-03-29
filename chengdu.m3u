@@ -1,269 +1,299 @@
 #EXTM3U
-#EXTINF:-1,CCTV-09-HD
-http://192.168.100.1:6777/udp/239.93.0.2:5140?/CCTV-09-HD
-#EXTINF:-1,金鷹卡通
-http://192.168.100.1:6777/udp/239.93.0.5:5140?/金鷹卡通
-#EXTINF:-1,山西衛視
-http://192.168.100.1:6777/udp/239.93.0.6:5140?/山西衛視
-#EXTINF:-1,內蒙古衛視
-http://192.168.100.1:6777/udp/239.93.0.8:5140?/內蒙古衛視
-#EXTINF:-1,CDTV-01-HD
-http://192.168.100.1:6777/udp/239.93.0.16:5140?/CDTV-01-HD
-#EXTINF:-1,CDTV-02-HD
-http://192.168.100.1:6777/udp/239.93.0.17:1239?/CDTV-02-HD
-#EXTINF:-1,CDTV-03-HD
-http://192.168.100.1:6777/udp/239.93.0.18:1238?/CDTV-03-HD
-#EXTINF:-1,CDTV-04-HD
-http://192.168.100.1:6777/udp/239.93.0.19:1250?/CDTV-04-HD
-#EXTINF:-1,四川衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.20:1235?/四川衛視-HD
-#EXTINF:-1,CDTV-05-HD
-http://192.168.100.1:6777/udp/239.93.0.21:1251?/CDTV-05-HD
-#EXTINF:-1,CDTV-08-HD
-http://192.168.100.1:6777/udp/239.93.0.22:1252?/CDTV-08-HD
-#EXTINF:-1,紀實人文-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.25:5140?/紀實人文-畫中畫
-#EXTINF:-1,九屏-01
-http://192.168.100.1:6777/udp/239.93.0.26:5140?/九屏-01
-#EXTINF:-1,九屏-02
-http://192.168.100.1:6777/udp/239.93.0.27:5140?/九屏-02
-#EXTINF:-1,九屏-03
-http://192.168.100.1:6777/udp/239.93.0.28:5140?/九屏-03
-#EXTINF:-1,九屏-04
-http://192.168.100.1:6777/udp/239.93.0.29:5140?/九屏-04
-#EXTINF:-1,九屏-05
-http://192.168.100.1:6777/udp/239.93.0.30:5140?/九屏-05
-#EXTINF:-1,東方財經-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.31:5140?/東方財經-畫中畫
-#EXTINF:-1,優漫卡通-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.32:5140?/優漫卡通-畫中畫
-#EXTINF:-1,哈哈炫動-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.33:5140?/哈哈炫動-畫中畫
-#EXTINF:-1,導視-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.34:5140?/導視-畫中畫
-#EXTINF:-1,收視指南-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.38:5140?/收視指南-畫中畫
-#EXTINF:-1,康巴衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.41:5140?/康巴衛視-HD
-#EXTINF:-1,東南衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.42:5140?/東南衛視-HD
-#EXTINF:-1,4K樂享超清-UHD
-http://192.168.100.1:6777/udp/239.93.0.43:5140?/4K樂享超清-UHD
-#EXTINF:-1,九屏-06
-http://192.168.100.1:6777/udp/239.93.0.46:5140?/九屏-06
-#EXTINF:-1,四川新聞-HD
-http://192.168.100.1:6777/udp/239.93.0.47:5140?/四川新聞-HD
-#EXTINF:-1,CETV-04
-http://192.168.100.1:6777/udp/239.93.0.50:5140?/CETV-04
-#EXTINF:-1,四川鄉村-HD
-http://192.168.100.1:6777/udp/239.93.0.52:5140?/四川鄉村-HD
-#EXTINF:-1,四海釣魚
-http://192.168.100.1:6777/udp/239.93.0.55:5140?/四海釣魚
-#EXTINF:-1,熱播劇場
-http://192.168.100.1:6777/udp/239.93.0.56:9020?/熱播劇場
-#EXTINF:-1,經典電影
-http://192.168.100.1:6777/udp/239.93.0.57:9024?/經典電影
-#EXTINF:-1,CCTV-01-HD
+#EXTINF:-1 tvg-id="CCTV-01" tvg-name="CCTV-01-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-01.png", CCTV-01-HD
 http://192.168.100.1:6777/udp/239.93.0.58:5140?/CCTV-01-HD
-#EXTINF:-1,CCTV-02-HD
+#EXTINF:-1 tvg-id="CCTV-02" tvg-name="CCTV-02-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-02.png", CCTV-02-HD
 http://192.168.100.1:6777/udp/239.93.0.59:5140?/CCTV-02-HD
-#EXTINF:-1,CCTV-04-HD
-http://192.168.100.1:6777/udp/239.93.0.60:5140?/CCTV-04-HD
-#EXTINF:-1,CCTV-07-HD
-http://192.168.100.1:6777/udp/239.93.0.61:5140?/CCTV-07-HD
-#EXTINF:-1,重慶汽摩-HD
-http://192.168.100.1:6777/udp/239.93.0.62:5140?/重慶汽摩-HD
-#EXTINF:-1,CCTV-10-HD
-http://192.168.100.1:6777/udp/239.93.0.63:5140?/CCTV-10-HD
-#EXTINF:-1,CCTV-06-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.64:5140?/CCTV-06-畫中畫
-#EXTINF:-1,CCTV-12-HD
-http://192.168.100.1:6777/udp/239.93.0.65:5140?/CCTV-12-HD
-#EXTINF:-1,CCTV-13-HD
-http://192.168.100.1:6777/udp/239.93.0.66:5140?/CCTV-13-HD
-#EXTINF:-1,解密-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.70:5140?/解密-畫中畫
-#EXTINF:-1,軍事-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.71:5140?/軍事-畫中畫
-#EXTINF:-1,江蘇衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.72:5140?/江蘇衛視-HD
-#EXTINF:-1,墨寶-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.73:5140?/墨寶-畫中畫
-#EXTINF:-1,寧夏衛視
-http://192.168.100.1:6777/udp/239.93.0.74:5140?/寧夏衛視
-#EXTINF:-1,地理-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.75:5140?/地理-畫中畫
-#EXTINF:-1,-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.77:5140?/-畫中畫
-#EXTINF:-1,CCTV-07-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.79:5140?/CCTV-07-畫中畫
-#EXTINF:-1,海南衛視
-http://192.168.100.1:6777/udp/239.93.0.80:5140?/海南衛視
-#EXTINF:-1,甘肅衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.81:5140?/甘肅衛視-HD
-#EXTINF:-1,新疆衛視
-http://192.168.100.1:6777/udp/239.93.0.82:5140?/新疆衛視
-#EXTINF:-1,西藏衛視
-http://192.168.100.1:6777/udp/239.93.0.83:5140?/西藏衛視
-#EXTINF:-1,青海衛視
-http://192.168.100.1:6777/udp/239.93.0.85:5140?/青海衛視
-#EXTINF:-1,內蒙古衛視
-http://192.168.100.1:6777/udp/239.93.0.87:5140?/內蒙古衛視
-#EXTINF:-1,湖南衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.88:5140?/湖南衛視-HD
-#EXTINF:-1,江蘇衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.89:5140?/江蘇衛視-HD
-#EXTINF:-1,海南衛視
-http://192.168.100.1:6777/udp/239.93.0.90:5140?/海南衛視
-#EXTINF:-1,CDTV-蓉城先鋒-HD
-http://192.168.100.1:6777/udp/239.93.0.91:2101?/CDTV-蓉城先鋒-HD
-#EXTINF:-1,CCTV-17-HD
-http://192.168.100.1:6777/udp/239.93.0.92:5140?/CCTV-17-HD
-#EXTINF:-1,熊貓體娛-HD
-http://192.168.100.1:6777/udp/239.93.0.94:5140?/熊貓體娛-HD
-#EXTINF:-1,BESTV-碟戰劇場-HD
-http://192.168.100.1:6777/udp/239.93.0.95:5140?/BESTV-碟戰劇場-HD
-#EXTINF:-1,愛上4K-UHD
-http://192.168.100.1:6777/udp/239.93.0.97:5140?/愛上4K-UHD
-#EXTINF:-1,CCTV-13-HD
-http://192.168.100.1:6777/udp/239.93.0.99:5140?/CCTV-13-HD
-#EXTINF:-1,陝西農林衛視
-http://192.168.100.1:6777/udp/239.93.0.100:5140?/陝西農林衛視
-#EXTINF:-1,CCTV-11-HD
-http://192.168.100.1:6777/udp/239.93.0.102:5140?/CCTV-11-HD
-#EXTINF:-1,CCTV-15-HD
-http://192.168.100.1:6777/udp/239.93.0.103:5140?/CCTV-15-HD
-#EXTINF:-1,CGTN-英語HD
-http://192.168.100.1:6777/udp/239.93.0.104:5140?/CGTN-英語HD
-#EXTINF:-1,BESTV-全球大片-HD
-http://192.168.100.1:6777/udp/239.93.0.105:5140?/BESTV-全球大片-HD
-#EXTINF:-1,生活時尚
-http://192.168.100.1:6777/udp/239.93.0.106:5140?/生活時尚
-#EXTINF:-1,金鷹卡通
-http://192.168.100.1:6777/udp/239.93.0.108:5140?/金鷹卡通
-#EXTINF:-1,CCTV-03-HD
+#EXTINF:-1 tvg-id="CCTV-03" tvg-name="CCTV-03-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-03.png", CCTV-03-HD
 http://192.168.100.1:6777/udp/239.93.0.109:5140?/CCTV-03-HD
-#EXTINF:-1,電信導視-HD
-http://192.168.100.1:6777/udp/239.93.0.110:5140?/電信導視-HD
-#EXTINF:-1,CETV-02
+#EXTINF:-1 tvg-id="CCTV-04" tvg-name="CCTV-04-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-04.png", CCTV-04-HD
+http://192.168.100.1:6777/udp/239.93.0.60:5140?/CCTV-04-HD
+#EXTINF:-1 tvg-id="CCTV-07" tvg-name="CCTV-07-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-07.png", CCTV-07-HD
+http://192.168.100.1:6777/udp/239.93.0.61:5140?/CCTV-07-HD
+#EXTINF:-1 tvg-id="CCTV-09" tvg-name="CCTV-09-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-09.png", CCTV-09-HD
+http://192.168.100.1:6777/udp/239.93.0.2:5140?/CCTV-09-HD
+#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-10.png", CCTV-10-HD
+http://192.168.100.1:6777/udp/239.93.0.63:5140?/CCTV-10-HD
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-11.png", CCTV-11-HD
+http://192.168.100.1:6777/udp/239.93.0.102:5140?/CCTV-11-HD
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-12.png", CCTV-12-HD
+http://192.168.100.1:6777/udp/239.93.0.65:5140?/CCTV-12-HD
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-13.png", CCTV-13-HD
+http://192.168.100.1:6777/udp/239.93.0.99:5140?/CCTV-13-HD
+#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-17.png", CCTV-17-HD
+http://192.168.100.1:6777/udp/239.93.0.92:5140?/CCTV-17-HD
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png", 安徽卫视-HD
+http://192.168.100.1:6777/udp/239.93.1.106:5140?/安徽卫视-HD
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png", 北京卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.180:5140?/北京卫视-HD
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png", 兵团卫视
+http://192.168.100.1:6777/udp/239.93.42.43:5140?/兵团卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png", 重庆卫视-HD
+http://192.168.100.1:6777/udp/239.93.1.107:5140?/重庆卫视-HD
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png", 甘肃卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.81:5140?/甘肃卫视-HD
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png", 广东卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.181:5140?/广东卫视-HD
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png", 广西卫视-HD
+http://192.168.100.1:6777/udp/239.93.42.46:5140?/广西卫视-HD
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png", 贵州卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.131:5140?/贵州卫视-HD
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png", 海南卫视
+http://192.168.100.1:6777/udp/239.93.0.80:5140?/海南卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png", 河北卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.132:5140?/河北卫视-HD
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png", 河南卫视-HD
+http://192.168.100.1:6777/udp/239.93.1.113:5140?/河南卫视-HD
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png", 黑龙江卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.183:5140?/黑龙江卫视-HD
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png", 湖北卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.250:5140?/湖北卫视-HD
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png", 湖南卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.88:5140?/湖南卫视-HD
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png", 吉林卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.248:5140?/吉林卫视-HD
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png", 江西卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.134:5140?/江西卫视-HD
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png", 江苏卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.72:5140?/江苏卫视-HD
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png", 辽宁卫视-HD
+http://192.168.100.1:6777/udp/239.93.1.108:5140?/辽宁卫视-HD
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png", 内蒙古卫视
+http://192.168.100.1:6777/udp/239.93.0.8:5140?/内蒙古卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png", 宁夏卫视
+http://192.168.100.1:6777/udp/239.93.0.74:5140?/宁夏卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png", 青海卫视
+http://192.168.100.1:6777/udp/239.93.0.85:5140?/青海卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png", 陕西卫视
+http://192.168.100.1:6777/udp/239.93.0.125:5140?/陕西卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png", 山东卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.168:5140?/山东卫视-HD
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png", 山西卫视
+http://192.168.100.1:6777/udp/239.93.0.6:5140?/山西卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png", 四川卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.20:1235?/四川卫视-HD
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png", 深圳卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.182:5140?/深圳卫视-HD
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png", 天津卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.167:5140?/天津卫视-HD
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png", 西藏卫视
+http://192.168.100.1:6777/udp/239.93.0.83:5140?/西藏卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png", 新疆卫视
+http://192.168.100.1:6777/udp/239.93.0.82:5140?/新疆卫视
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png", 延边卫视
+http://192.168.100.1:6777/udp/239.93.0.249:5140?/延边卫视
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png", 云南卫视-HD
+http://192.168.100.1:6777/udp/239.93.1.174:5140?/云南卫视-HD
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png", 浙江卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.124:5140?/浙江卫视-HD
+#EXTINF:-1 tvg-id="4K乐享超清" tvg-name="4K乐享超清-UHD" tvg-logo="https://live.fanmingming.cn/tv/4K乐享超清.png", 4K乐享超清-UHD
+http://192.168.100.1:6777/udp/239.93.0.43:5140?/4K乐享超清-UHD
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K-UHD" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png", 爱上4K-UHD
+http://192.168.100.1:6777/udp/239.93.0.97:5140?/爱上4K-UHD
+#EXTINF:-1 tvg-id="BESTV百事通4K" tvg-name="BESTV百事通4K-UHD" tvg-logo="https://live.fanmingming.cn/tv/BESTV百事通4K.png", BESTV百事通4K-UHD
+http://192.168.100.1:6777/udp/239.93.42.75:5140?/BESTV百事通4K-UHD
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K-UHD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-4K.png", CCTV-4K-UHD
+http://192.168.100.1:6777/udp/239.93.42.41:5140?/CCTV-4K-UHD
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K-UHD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-4K.png", CCTV-4K-UHD
+http://192.168.100.1:6777/udp/239.93.42.42:5140?/CCTV-4K-UHD
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场-UHD" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png", 欢笑剧场-UHD
+http://192.168.100.1:6777/udp/239.93.0.145:5140?/欢笑剧场-UHD
+#EXTINF:-1 tvg-id="亲子趣学" tvg-name="亲子趣学-UHD" tvg-logo="https://live.fanmingming.cn/tv/亲子趣学.png", 亲子趣学-UHD
+http://192.168.100.1:6777/udp/239.93.1.191:5140?/亲子趣学-UHD
+#EXTINF:-1 tvg-id="绚影4K" tvg-name="绚影4K-UHD" tvg-logo="https://live.fanmingming.cn/tv/绚影4K.png", 绚影4K-UHD
+http://192.168.100.1:6777/udp/239.93.42.33:5140?/绚影4K-UHD
+#EXTINF:-1 tvg-id="中录动漫" tvg-name="中录动漫-UHD" tvg-logo="https://live.fanmingming.cn/tv/中录动漫.png", 中录动漫-UHD
+http://192.168.100.1:6777/udp/239.93.1.188:5140?/中录动漫-UHD
+#EXTINF:-1 tvg-id="4K乐享超清" tvg-name="4K乐享超清-UHD" tvg-logo="https://live.fanmingming.cn/tv/4K乐享超清.png", 4K乐享超清-UHD
+http://192.168.100.1:6777/udp/239.93.0.43:5140?/4K乐享超清-UHD
+#EXTINF:-1 tvg-id="CDTV-01" tvg-name="CDTV-01-HD" tvg-logo="https://live.fanmingming.cn/tv/CDTV-01.png", CDTV-01-HD
+http://192.168.100.1:6777/udp/239.93.0.16:5140?/CDTV-01-HD
+#EXTINF:-1 tvg-id="CDTV-02" tvg-name="CDTV-02-HD" tvg-logo="https://live.fanmingming.cn/tv/CDTV-02.png", CDTV-02-HD
+http://192.168.100.1:6777/udp/239.93.0.17:1239?/CDTV-02-HD
+#EXTINF:-1 tvg-id="CDTV-03" tvg-name="CDTV-03-HD" tvg-logo="https://live.fanmingming.cn/tv/CDTV-03.png", CDTV-03-HD
+http://192.168.100.1:6777/udp/239.93.0.18:1238?/CDTV-03-HD
+#EXTINF:-1 tvg-id="CDTV-04" tvg-name="CDTV-04-HD" tvg-logo="https://live.fanmingming.cn/tv/CDTV-04.png", CDTV-04-HD
+http://192.168.100.1:6777/udp/239.93.0.19:1250?/CDTV-04-HD
+#EXTINF:-1 tvg-id="CDTV-05" tvg-name="CDTV-05-HD" tvg-logo="https://live.fanmingming.cn/tv/CDTV-05.png", CDTV-05-HD
+http://192.168.100.1:6777/udp/239.93.0.21:1251?/CDTV-05-HD
+#EXTINF:-1 tvg-id="CDTV-08" tvg-name="CDTV-08-HD" tvg-logo="https://live.fanmingming.cn/tv/CDTV-08.png", CDTV-08-HD
+http://192.168.100.1:6777/udp/239.93.0.22:1252?/CDTV-08-HD
+#EXTINF:-1 tvg-id="CDTV-蓉城先锋" tvg-name="CDTV-蓉城先锋-HD" tvg-logo="https://live.fanmingming.cn/tv/CDTV-蓉城先锋.png", CDTV-蓉城先锋-HD
+http://192.168.100.1:6777/udp/239.93.0.91:2101?/CDTV-蓉城先锋-HD
+#EXTINF:-1 tvg-id="CGTN-英语" tvg-name="CGTN-英语HD" tvg-logo="https://live.fanmingming.cn/tv/CGTN-英语.png", CGTN-英语HD
+http://192.168.100.1:6777/udp/239.93.0.104:5140?/CGTN-英语HD
+#EXTINF:-1 tvg-id="CHC-动作电影" tvg-name="CHC-动作电影-HD" tvg-logo="https://live.fanmingming.cn/tv/CHC-动作电影.png", CHC-动作电影-HD
+http://192.168.100.1:6777/udp/239.93.42.7:5140?/CHC-动作电影-HD
+#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC-家庭影院-HD" tvg-logo="https://live.fanmingming.cn/tv/CHC-家庭影院.png", CHC-家庭影院-HD
+http://192.168.100.1:6777/udp/239.93.42.6:5140?/CHC-家庭影院-HD
+#EXTINF:-1 tvg-id="CHC-影迷电影" tvg-name="CHC-影迷电影-HD" tvg-logo="https://live.fanmingming.cn/tv/CHC-影迷电影.png", CHC-影迷电影-HD
+http://192.168.100.1:6777/udp/239.93.42.5:5140?/CHC-影迷电影-HD
+#EXTINF:-1 tvg-id="IHOT爱电竞" tvg-name="IHOT爱电竞-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱电竞.png", IHOT爱电竞-HD
+http://192.168.100.1:6777/udp/239.93.42.19:5140?/IHOT爱电竞-HD
+#EXTINF:-1 tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱谍战.png", IHOT爱谍战-HD
+http://192.168.100.1:6777/udp/239.93.42.14:5140?/IHOT爱谍战-HD
+#EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱科幻.png", IHOT爱科幻-HD
+http://192.168.100.1:6777/udp/239.93.42.10:5140?/IHOT爱科幻-HD
+#EXTINF:-1 tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱喜剧.png", IHOT爱喜剧-HD
+http://192.168.100.1:6777/udp/239.93.42.9:5140?/IHOT爱喜剧-HD
+#EXTINF:-1 tvg-id="IHOT爱经典" tvg-name="IHOT爱经典-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱经典.png", IHOT爱经典-HD
+http://192.168.100.1:6777/udp/239.93.42.13:5140?/IHOT爱经典-HD
+#EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱科幻.png", IHOT爱科幻-HD
+http://192.168.100.1:6777/udp/239.93.42.10:5140?/IHOT爱科幻-HD
+#EXTINF:-1 tvg-id="IHOT爱奇谈" tvg-name="IHOT爱奇谈-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱奇谈.png", IHOT爱奇谈-HD
+http://192.168.100.1:6777/udp/239.93.42.22:5140?/IHOT爱奇谈-HD
+#EXTINF:-1 tvg-id="IHOT爱青春" tvg-name="IHOT爱青春-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱青春.png", IHOT爱青春-HD
+http://192.168.100.1:6777/udp/239.93.42.16:5140?/IHOT爱青春-HD
+#EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱赛车.png", IHOT爱赛车-HD
+http://192.168.100.1:6777/udp/239.93.42.20:5140?/IHOT爱赛车-HD
+#EXTINF:-1 tvg-id="IHOT爱玩具" tvg-name="IHOT爱玩具-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱玩具.png", IHOT爱玩具-HD
+http://192.168.100.1:6777/udp/239.93.42.18:5140?/IHOT爱玩具-HD
+#EXTINF:-1 tvg-id="IHOT爱院线" tvg-name="IHOT爱院线-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱院线.png", IHOT爱院线-HD
+http://192.168.100.1:6777/udp/239.93.42.11:5140?/IHOT爱院线-HD
+#EXTINF:-1 tvg-id="IHOT爱幼教" tvg-name="IHOT爱幼教-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱幼教.png", IHOT爱幼教-HD
+http://192.168.100.1:6777/udp/239.93.42.17:5140?/IHOT爱幼教-HD
+#EXTINF:-1 tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑-HD" tvg-logo="https://live.fanmingming.cn/tv/IHOT爱悬疑.png", IHOT爱悬疑-HD
+http://192.168.100.1:6777/udp/239.93.42.12:5140?/IHOT爱悬疑-HD
+#EXTINF:-1 tvg-id="麻辣体育" tvg-name="麻辣体育" tvg-logo="https://live.fanmingming.cn/tv/麻辣体育.png", 麻辣体育
+http://192.168.100.1:6777/udp/239.93.42.2:5140?/麻辣体育
+#EXTINF:-1 tvg-id="BESTV-宝宝动画" tvg-name="BESTV-宝宝动画-HD" tvg-logo="https://live.fanmingming.cn/tv/BESTV-宝宝动画.png", BESTV-宝宝动画-HD
+http://192.168.100.1:6777/udp/239.93.42.89:5140?/BESTV-宝宝动画-HD
+#EXTINF:-1 tvg-id="BESTV-谍战剧场" tvg-name="BESTV-谍战剧场-HD" tvg-logo="https://live.fanmingming.cn/tv/BESTV-谍战剧场.png", BESTV-谍战剧场-HD
+http://192.168.100.1:6777/udp/239.93.42.91:5140?/BESTV-谍战剧场-HD
+#EXTINF:-1 tvg-id="BESTV-全球大片" tvg-name="BESTV-全球大片-HD" tvg-logo="https://live.fanmingming.cn/tv/BESTV-全球大片.png", BESTV-全球大片-HD
+http://192.168.100.1:6777/udp/239.93.42.90:5140?/BESTV-全球大片-HD
+#EXTINF:-1 tvg-id="BESTV-华语影院" tvg-name="BESTV-华语影院-HD" tvg-logo="https://live.fanmingming.cn/tv/BESTV-华语影院.png", BESTV-华语影院-HD
+http://192.168.100.1:6777/udp/239.93.42.86:5140?/BESTV-华语影院-HD
+#EXTINF:-1 tvg-id="BESTV-热门剧场" tvg-name="BESTV-热门剧场-HD" tvg-logo="https://live.fanmingming.cn/tv/BESTV-热门剧场.png", BESTV-热门剧场-HD
+http://192.168.100.1:6777/udp/239.93.42.88:5140?/BESTV-热门剧场-HD
+#EXTINF:-1 tvg-id="BESTV-星光院线" tvg-name="BESTV-星光院线-HD" tvg-logo="https://live.fanmingming.cn/tv/BESTV-星光院线.png", BESTV-星光院线-HD
+http://192.168.100.1:6777/udp/239.93.42.87:5140?/BESTV-星光院线-HD
+#EXTINF:-1 tvg-id="BESTV-戏曲精选" tvg-name="BESTV-戏曲精选-HD" tvg-logo="https://live.fanmingming.cn/tv/BESTV-戏曲精选.png", BESTV-戏曲精选-HD
+http://192.168.100.1:6777/udp/239.93.0.144:5140?/BESTV-戏曲精选-HD
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png", 中国天气
+http://192.168.100.1:6777/udp/239.93.42.66:5140?/中国天气
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场-HD" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png", 都市剧场-HD
+http://192.168.100.1:6777/udp/239.93.42.30:5140?/都市剧场-HD
+#EXTINF:-1 tvg-id="电信导视" tvg-name="电信导视-HD" tvg-logo="https://live.fanmingming.cn/tv/电信导视.png", 电信导视-HD
+http://192.168.100.1:6777/udp/239.93.0.110:5140?/电信导视-HD
+#EXTINF:-1 tvg-id="电信导视" tvg-name="电信导视-HD" tvg-logo="https://live.fanmingming.cn/tv/电信导视.png", 电信导视-HD
+http://192.168.100.1:6777/udp/239.93.42.59:5140?/电信导视-HD
+#EXTINF:-1 tvg-id="电信导视" tvg-name="电信导视-HD" tvg-logo="https://live.fanmingming.cn/tv/电信导视.png", 电信导视-HD
+http://192.168.100.1:6777/udp/239.93.42.64:5140?/电信导视-HD
+#EXTINF:-1 tvg-id="电信导视" tvg-name="电信导视-HD" tvg-logo="https://live.fanmingming.cn/tv/电信导视.png", 电信导视-HD
+http://192.168.100.1:6777/udp/239.93.42.65:5140?/电信导视-HD
+#EXTINF:-1 tvg-id="电信导视" tvg-name="电信导视-HD" tvg-logo="https://live.fanmingming.cn/tv/电信导视.png", 电信导视-HD
+http://192.168.100.1:6777/udp/239.93.42.69:5140?/电信导视-HD
+#EXTINF:-1 tvg-id="电信直播" tvg-name="电信直播-HD" tvg-logo="https://live.fanmingming.cn/tv/电信直播.png", 电信直播-HD
+http://192.168.100.1:6777/udp/239.93.1.245:5140?/电信直播-HD
+#EXTINF:-1 tvg-id="电信直播" tvg-name="电信直播-HD" tvg-logo="https://live.fanmingming.cn/tv/电信直播.png", 电信直播-HD
+http://192.168.100.1:6777/udp/239.93.1.246:5140?/电信直播-HD
+#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂-HD" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png", 电竞天堂-HD
+http://192.168.100.1:6777/udp/239.93.1.135:5140?/电竞天堂-HD
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场-HD" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png", 风云剧场-HD
+http://192.168.100.1:6777/udp/239.93.1.156:5140?/CCTV-风云剧场-HD
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐-HD" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png", 风云音乐-HD
+http://192.168.100.1:6777/udp/239.93.0.224:5140?/CCTV-风云音乐-HD
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球-HD" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png", 风云足球-HD
+http://192.168.100.1:6777/udp/239.93.0.235:5140?/CCTV-风云足球-HD
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台-HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png", 凤凰卫视中文台-HD
+http://192.168.100.1:6777/udp/239.93.0.162:2192?/凤凰卫视中文台-HD
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台-HD" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png", 凤凰卫视资讯台-HD
+http://192.168.100.1:6777/udp/239.93.0.118:2191?/凤凰卫视资讯台-HD
+#EXTINF:-1 tvg-id="广东嘉佳卡通" tvg-name="广东嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/广东嘉佳卡通.png", 广东嘉佳卡通
+http://192.168.100.1:6777/udp/239.93.0.246:5140?/广东嘉佳卡通
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png", 甘肃卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.81:5140?/甘肃卫视-HD
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育-HD" tvg-logo="https://live.fanmingming.cn/tv/劲爆体育.png", 劲爆体育-HD
+http://192.168.100.1:6777/udp/239.93.42.98:5140?/劲爆体育-HD
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂-HD" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png", 金色学堂-HD
+http://192.168.100.1:6777/udp/239.93.42.95:5140?/金色学堂-HD
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png", 金鹰卡通
+http://192.168.100.1:6777/udp/239.93.0.108:5140?/金鹰卡通
+#EXTINF:-1 tvg-id="江苏财富天下" tvg-name="江苏财富天下" tvg-logo="https://live.fanmingming.cn/tv/江苏财富天下.png", 江苏财富天下
+http://192.168.100.1:6777/udp/239.93.0.116:9136?/江苏财富天下
+#EXTINF:-1 tvg-id="江苏优漫卡通" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/江苏优漫卡通.png", 江苏优漫卡通
+http://192.168.100.1:6777/udp/239.93.0.251:5140?/江苏优漫卡通
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png", 江西卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.134:5140?/江西卫视-HD
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png", 江西卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.248:5140?/江西卫视-HD
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png", 卡酷少儿
+http://192.168.100.1:6777/udp/239.93.42.1:5140?/卡酷少儿
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png", 康巴卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.41:5140?/康巴卫视-HD
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓-HD" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png", 快乐垂钓-HD
+http://192.168.100.1:6777/udp/239.93.1.151:5140?/快乐垂钓-HD
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png", 辽宁卫视-HD
+http://192.168.100.1:6777/udp/239.93.1.108:5140?/辽宁卫视-HD
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游-HD" tvg-logo="https://live.fanmingming.cn/tv/乐游.png", 乐游-HD
+http://192.168.100.1:6777/udp/239.93.42.94:5140?/乐游-HD
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png", 生活时尚
+http://192.168.100.1:6777/udp/239.93.0.106:5140?/生活时尚
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚-HD" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png", 生活时尚-HD
+http://192.168.100.1:6777/udp/239.93.42.29:5140?/生活时尚-HD
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png", 内蒙古卫视
+http://192.168.100.1:6777/udp/239.93.0.8:5140?/内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png", 内蒙古卫视
+http://192.168.100.1:6777/udp/239.93.0.87:5140?/内蒙古卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png", 宁夏卫视
+http://192.168.100.1:6777/udp/239.93.0.74:5140?/宁夏卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png", 陕西卫视
+http://192.168.100.1:6777/udp/239.93.0.125:5140?/陕西卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png", 陕西卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.143:5140?/陕西卫视-HD
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.cn/tv/山东教育卫视.png", 山东教育卫视
+http://192.168.100.1:6777/udp/239.93.1.196:5140?/山东教育卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png", 山东卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.168:5140?/山东卫视-HD
+#EXTINF:-1 tvg-id="陕西农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西农林卫视.png", 陕西农林卫视
+http://192.168.100.1:6777/udp/239.93.0.100:5140?/陕西农林卫视
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png", 山西卫视
+http://192.168.100.1:6777/udp/239.93.0.6:5140?/山西卫视
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png", 三沙卫视
+http://192.168.100.1:6777/udp/239.93.42.58:5140?/三沙卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png", 山东卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.168:5140?/山东卫视-HD
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png", 深圳卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.182:5140?/深圳卫视-HD
+#EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济-HD" tvg-logo="https://live.fanmingming.cn/tv/四川经济.png", 四川经济-HD
+http://192.168.100.1:6777/udp/239.93.1.101:5140?/四川经济-HD
+#EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教-HD" tvg-logo="https://live.fanmingming.cn/tv/四川科教.png", 四川科教-HD
+http://192.168.100.1:6777/udp/239.93.42.44:5140?/四川科教-HD
+#EXTINF:-1 tvg-id="四川文化" tvg-name="四川文化-HD" tvg-logo="https://live.fanmingming.cn/tv/四川文化.png", 四川文化-HD
+http://192.168.100.1:6777/udp/239.93.1.102:5140?/四川文化-HD
+#EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻-HD" tvg-logo="https://live.fanmingming.cn/tv/四川新闻.png", 四川新闻-HD
+http://192.168.100.1:6777/udp/239.93.0.47:5140?/四川新闻-HD
+#EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村-HD" tvg-logo="https://live.fanmingming.cn/tv/四川乡村.png", 四川乡村-HD
+http://192.168.100.1:6777/udp/239.93.0.52:5140?/四川乡村-HD
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png", 四川卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.20:1235?/四川卫视-HD
+#EXTINF:-1 tvg-id="四川影视" tvg-name="四川影视-HD" tvg-logo="https://live.fanmingming.cn/tv/四川影视.png", 四川影视-HD
+http://192.168.100.1:6777/udp/239.93.0.166:5140?/四川影视-HD
+#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋-HD" tvg-logo="https://live.fanmingming.cn/tv/天元围棋.png", 天元围棋-HD
+http://192.168.100.1:6777/udp/239.93.42.55:5140?/天元围棋-HD
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png", 天津卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.167:5140?/天津卫视-HD
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png", 厦门卫视
+http://192.168.100.1:6777/udp/239.93.42.57:5140?/厦门卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png", 西藏卫视
+http://192.168.100.1:6777/udp/239.93.0.83:5140?/西藏卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png", 新疆卫视
+http://192.168.100.1:6777/udp/239.93.0.82:5140?/新疆卫视
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png", 延边卫视
+http://192.168.100.1:6777/udp/239.93.0.249:5140?/延边卫视
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png", 云南卫视-HD
+http://192.168.100.1:6777/udp/239.93.1.174:5140?/云南卫视-HD
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png", 浙江卫视-HD
+http://192.168.100.1:6777/udp/239.93.0.124:5140?/浙江卫视-HD
+#EXTINF:-1 tvg-id="CETV-01" tvg-name="CETV-01-HD" tvg-logo="https://live.fanmingming.cn/tv/CETV-01.png", CETV-01-HD
+http://192.168.100.1:6777/udp/239.93.1.111:5140?/CETV-01-HD
+#EXTINF:-1 tvg-id="CETV-02" tvg-name="CETV-02" tvg-logo="https://live.fanmingming.cn/tv/CETV-02.png", CETV-02
 http://192.168.100.1:6777/udp/239.93.0.113:5140?/CETV-02
-#EXTINF:-1,湖南茶頻道-HD
-http://192.168.100.1:6777/udp/239.93.0.114:5140?/湖南茶頻道-HD
-#EXTINF:-1,湖北衛視-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.115:5140?/湖北衛視-畫中畫
-#EXTINF:-1,江蘇財富天下
-http://192.168.100.1:6777/udp/239.93.0.116:9136?/江蘇財富天下
-#EXTINF:-1,CETV-早期教育-HD
-http://192.168.100.1:6777/udp/239.93.0.117:5140?/CETV-早期教育-HD
-#EXTINF:-1,鳳凰衛視資訊台-HD
-http://192.168.100.1:6777/udp/239.93.0.118:2191?/鳳凰衛視資訊台-HD
-#EXTINF:-1,重慶衛視-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.119:5140?/重慶衛視-畫中畫
-#EXTINF:-1,-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.121:5140?/-畫中畫
-#EXTINF:-1,動畫-HD
-http://192.168.100.1:6777/udp/239.93.0.122:2208?/動畫-HD
-#EXTINF:-1,東方衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.123:5140?/東方衛視-HD
-#EXTINF:-1,浙江衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.124:5140?/浙江衛視-HD
-#EXTINF:-1,陝西衛視
-http://192.168.100.1:6777/udp/239.93.0.125:5140?/陝西衛視
-#EXTINF:-1,晴彩四川
-http://192.168.100.1:6777/udp/239.93.0.126:5140?/晴彩四川
-#EXTINF:-1,山西衛視
-http://192.168.100.1:6777/udp/239.93.0.127:5140?/山西衛視
-#EXTINF:-1,四川衛視-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.128:5140?/四川衛視-畫中畫
-#EXTINF:-1,導視
-http://192.168.100.1:6777/udp/239.93.0.129:5140?/導視
-#EXTINF:-1,湖南金鷹記實-HD
-http://192.168.100.1:6777/udp/239.93.0.130:5140?/湖南金鷹記實-HD
-#EXTINF:-1,貴州衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.131:5140?/貴州衛視-HD
-#EXTINF:-1,河北衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.132:5140?/河北衛視-HD
-#EXTINF:-1,CETV-04-HD
+#EXTINF:-1 tvg-id="CETV-04" tvg-name="CETV-04" tvg-logo="https://live.fanmingming.cn/tv/CETV-04.png", CETV-04
+http://192.168.100.1:6777/udp/239.93.0.50:5140?/CETV-04
+#EXTINF:-1 tvg-id="CETV-04" tvg-name="CETV-04-HD" tvg-logo="https://live.fanmingming.cn/tv/CETV-04.png", CETV-04-HD
 http://192.168.100.1:6777/udp/239.93.0.133:5140?/CETV-04-HD
-#EXTINF:-1,江西衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.134:5140?/江西衛視-HD
-#EXTINF:-1,愛體育
-http://192.168.100.1:6777/udp/239.93.0.135:9008?/愛體育
-#EXTINF:-1,遊戲風雲
-http://192.168.100.1:6777/udp/239.93.0.136:5140?/遊戲風雲
-#EXTINF:-1,CDTV-02-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.137:5140?/CDTV-02-畫中畫
-#EXTINF:-1,BESTV-華語影院-HD
-http://192.168.100.1:6777/udp/239.93.0.138:5140?/BESTV-華語影院-HD
-#EXTINF:-1,BESTV-星光院線-HD
-http://192.168.100.1:6777/udp/239.93.0.139:5140?/BESTV-星光院線-HD
-#EXTINF:-1,BESTV-熱門劇場-HD
-http://192.168.100.1:6777/udp/239.93.0.140:5140?/BESTV-熱門劇場-HD
-#EXTINF:-1,北京記實科教-HD
-http://192.168.100.1:6777/udp/239.93.0.141:5140?/北京記實科教-HD
-#EXTINF:-1,中國交通-四川-HD
-http://192.168.100.1:6777/udp/239.93.0.142:5140?/中國交通-四川-HD
-#EXTINF:-1,陝西衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.143:5140?/陝西衛視-HD
-#EXTINF:-1,BESTV-戲曲精選-HD
-http://192.168.100.1:6777/udp/239.93.0.144:5140?/BESTV-戲曲精選-HD
-#EXTINF:-1,歡笑劇場-UHD
-http://192.168.100.1:6777/udp/239.93.0.145:5140?/歡笑劇場-UHD
-#EXTINF:-1,BESTV-青春動漫-HD
-http://192.168.100.1:6777/udp/239.93.0.146:5140?/BESTV-青春動漫-HD
-#EXTINF:-1,BESTV-寶寶動畫-HD
-http://192.168.100.1:6777/udp/239.93.0.147:5140?/BESTV-寶寶動畫-HD
-#EXTINF:-1,CCTV-01-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.148:5140?/CCTV-01-畫中畫
-#EXTINF:-1,CCTV-02-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.149:5140?/CCTV-02-畫中畫
-#EXTINF:-1,CCTV-03-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.150:5140?/CCTV-03-畫中畫
-#EXTINF:-1,熱門綜藝-HD
-http://192.168.100.1:6777/udp/239.93.0.151:5140?/熱門綜藝-HD
-#EXTINF:-1,北京記實科教-HD
-http://192.168.100.1:6777/udp/239.93.0.152:5140?/北京記實科教-HD
-#EXTINF:-1,CDTV-03-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.153:5140?/CDTV-03-畫中畫
-#EXTINF:-1,CCTV-08-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.154:5140?/CCTV-08-畫中畫
-#EXTINF:-1,星空衛視[中國大陸]
-http://192.168.100.1:6777/udp/239.93.0.156:2193?/星空衛視[中國大陸]
-#EXTINF:-1,CHANNEL[V]衛視音樂台[中國頻道]
-http://192.168.100.1:6777/udp/239.93.0.157:2194?/CHANNEL[V]衛視音樂台[中國頻道]
-#EXTINF:-1,CCTV-05-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.158:5140?/CCTV-05-畫中畫
-#EXTINF:-1,鳳凰衛視中文台-HD
-http://192.168.100.1:6777/udp/239.93.0.162:2192?/鳳凰衛視中文台-HD
-#EXTINF:-1,四川影視-HD
-http://192.168.100.1:6777/udp/239.93.0.166:5140?/四川影視-HD
-#EXTINF:-1,天津衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.167:5140?/天津衛視-HD
-#EXTINF:-1,山東衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.168:5140?/山東衛視-HD
-#EXTINF:-1,四川衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.169:5140?/四川衛視-HD
-#EXTINF:-1,CCTV-11-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.170:5140?/CCTV-11-畫中畫
-#EXTINF:-1,CCTV-15-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.171:5140?/CCTV-15-畫中畫
-#EXTINF:-1,熊貓直播-畫中畫
-http://192.168.100.1:6777/udp/239.93.0.172:5140?/熊貓直播-畫中畫
-#EXTINF:-1,上海哈哈炫動
-http://192.168.100.1:6777/udp/239.93.0.173:5140?/上海哈哈炫動
-#EXTINF:-1,西藏衛視
-http://192.168.100.1:6777/udp/239.93.0.175:5140?/西藏衛視
-#EXTINF:-1,陝西衛視
-http://192.168.100.1:6777/udp/239.93.0.176:5140?/陝西衛視
-#EXTINF:-1,電信直播-黃河-HD
-http://192.168.100.1:6777/udp/239.93.0.178:5140?/電信直播-黃河-HD
-#EXTINF:-1,北京衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.180:5140?/北京衛視-HD
-#EXTINF:-1,廣東衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.181:5140?/廣東衛視-HD
-#EXTINF:-1,深圳衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.182:5140?/深圳衛視-HD
-#EXTINF:-1,黑龍江衛視-HD
-http://192.168.100.1:6777/udp/239.93.0.183:5140?/黑龍江衛視-HD
-#EXTINF:-1,CCTV-01-HD
-http://192.168.100.1:6777/udp/239.93.0.184:5140?/CCTV-
+#EXTINF:-1 tvg-id="CETV-早期教育" tvg-name="CETV-早期教育-HD" tvg-logo="https://live.fanmingming.cn/tv/CETV-早期教育.png", CETV-早期教育-HD
+http://192.168.100.1:6777/udp/239.93.0.117:5140?/CETV-早期教育-HD
+#EXTINF:-1 tvg-id="I成都" tvg-name="I成都-HD" tvg-logo="https://live.fanmingming.cn/tv/I成都.png", I成都-HD
+http://192.168.100.1:6777/udp/239.93.1.104:1234?/I成都-HD
