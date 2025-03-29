@@ -21,6 +21,10 @@ http://192.168.100.1:6777/udp/239.93.0.65:5140?/CCTV-12-HD
 http://192.168.100.1:6777/udp/239.93.0.99:5140?/CCTV-13-HD
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-17.png", CCTV-17-HD
 http://192.168.100.1:6777/udp/239.93.0.92:5140?/CCTV-17-HD
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视-UHD(HDR)" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png", 北京卫视-UHD(HDR)
+http://192.168.100.1:6777/udp/239.93.42.102:5140?/北京卫视-UHD(HDR)
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视-UHD(HDR) 6CH 5.1" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png", 北京卫视-UHD(HDR) 6CH 5.1
+http://192.168.100.1:6777/udp/239.93.42.103:5140?/北京卫视-UHD(HDR) 6CH 5.1
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png", 安徽卫视-HD
 http://192.168.100.1:6777/udp/239.93.1.106:5140?/安徽卫视-HD
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png", 北京卫视-HD
