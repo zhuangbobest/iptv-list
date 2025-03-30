@@ -25,8 +25,22 @@ http://192.168.100.1:6777/udp/239.93.0.102:5140?/CCTV-11-HD
 http://192.168.100.1:6777/udp/239.93.0.65:5140?/CCTV-12-HD
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png", CCTV-13-HD
 http://192.168.100.1:6777/udp/239.93.0.99:5140?/CCTV-13-HD
+#EXTINF:-1 tvg-id="央视少儿" tvg-name="央视少儿" tvg-logo="https://live.fanmingming.cn/tv/央视少儿.png", 央视少儿
+http://192.168.100.1:6777/udp/239.93.1.29:6000?/央视少儿
+#EXTINF:-1 tvg-id="CCTV4歐洲台" tvg-name="CCTV4歐洲台" tvg-logo="https://live.fanmingming.cn/tv/CCTV4歐洲台.png", CCTV-04-歐洲台-HD
+http://192.168.100.1:6777/udp/239.93.1.232:5140?/CCTV4歐洲台
+#EXTINF:-1 tvg-id="央视体育赛事" tvg-name="央视体育赛事" tvg-logo="https://live.fanmingming.cn/tv/央视体育赛事.png", 央视体育赛事
+http://192.168.100.1:6777/udp/239.93.1.36:8004?/央视体育赛事
+#EXTINF:-1 tvg-id="央视奥运超高清" tvg-name="央视奥运超高清" tvg-logo="https://live.fanmingming.cn/tv/央视奥运超高清.png", 央视奥运超高清
+http://192.168.100.1:6777/udp/239.93.42.54:5140?/央视奥运超高清
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png", CCTV-17-HD
 http://192.168.100.1:6777/udp/239.93.0.92:5140?/CCTV-17-HD
+#EXTINF:-1 tvg-id="中國天氣" tvg-name="中國天氣" tvg-logo="https://live.fanmingming.cn/tv/中國天氣.png", 中國天氣-HD
+http://192.168.100.1:6777/udp/239.93.42.66:5140?/中國天氣
+#EXTINF:-1 tvg-id="央视4K超高清" tvg-name="央视4K超高清" tvg-logo="https://live.fanmingming.cn/tv/央视4K超高清.png", 央视4K超高清
+http://192.168.100.1:6777/udp/239.93.42.42:5140?/央视4K超高清
+#EXTINF:-1 tvg-id="4K乐享专区" tvg-name="4K乐享专区" tvg-logo="https://live.fanmingming.cn/tv/4K乐享专区.png", 4K乐享专区
+http://192.168.100.1:6777/udp/239.93.0.43:5140?/4K乐享专区
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视-UHD(HDR)" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png", 北京卫视-UHD(HDR)
 http://192.168.100.1:6777/udp/239.93.42.102:5140?/北京卫视-UHD(HDR)
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视-UHD(HDR) 6CH 5.1" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png", 北京卫视-UHD(HDR) 6CH 5.1
@@ -95,6 +109,8 @@ http://192.168.100.1:6777/udp/239.93.0.249:5140?/延边卫视
 http://192.168.100.1:6777/udp/239.93.1.174:5140?/云南卫视-HD
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png", 浙江卫视-HD
 http://192.168.100.1:6777/udp/239.93.0.124:5140?/浙江卫视-HD
+#EXTINF:-1 tvg-id="湖南金鷹卡通" tvg-name="湖南金鷹卡通" tvg-logo="https://live.fanmingming.cn/tv/湖南金鷹卡通.png", 湖南金鷹卡通
+http://192.168.100.1:6777/udp/239.93.0.5:5140?/湖南金鷹卡通
 #EXTINF:-1 tvg-id="4K乐享超清" tvg-name="4K乐享超清-UHD" tvg-logo="https://live.fanmingming.cn/tv/4K乐享超清.png", 4K乐享超清-UHD
 http://192.168.100.1:6777/udp/239.93.0.43:5140?/4K乐享超清-UHD
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K-UHD" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png", 爱上4K-UHD
@@ -115,6 +131,8 @@ http://192.168.100.1:6777/udp/239.93.42.33:5140?/绚影4K-UHD
 http://192.168.100.1:6777/udp/239.93.1.188:5140?/中录动漫-UHD
 #EXTINF:-1 tvg-id="4K乐享超清" tvg-name="4K乐享超清-UHD" tvg-logo="https://live.fanmingming.cn/tv/4K乐享超清.png", 4K乐享超清-UHD
 http://192.168.100.1:6777/udp/239.93.0.43:5140?/4K乐享超清-UHD
+#EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://live.fanmingming.cn/tv/爱喜剧.png", 爱喜剧
+http://192.168.100.1:6777/udp/239.93.1.59:5140?/爱喜剧
 #EXTINF:-1 tvg-id="CDTV-01" tvg-name="CDTV-01-HD" tvg-logo="https://live.fanmingming.cn/tv/CDTV-01.png", CDTV-01-HD
 http://192.168.100.1:6777/udp/239.93.0.16:5140?/CDTV-01-HD
 #EXTINF:-1 tvg-id="CDTV-02" tvg-name="CDTV-02-HD" tvg-logo="https://live.fanmingming.cn/tv/CDTV-02.png", CDTV-02-HD
