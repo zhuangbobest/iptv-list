@@ -65,6 +65,8 @@ http://192.168.100.1:6777/udp/239.93.0.131:5140?/贵州卫视-HD
 http://192.168.100.1:6777/udp/239.93.0.80:5140?/海南卫视
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png", 河北卫视-HD
 http://192.168.100.1:6777/udp/239.93.0.132:5140?/河北卫视-HD
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png", 东南卫视
+http://192.168.100.1:6777/udp/239.93.0.42:5140?/东南卫视
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png", 河南卫视-HD
 http://192.168.100.1:6777/udp/239.93.1.113:5140?/河南卫视-HD
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视-HD" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png", 黑龙江卫视-HD
@@ -111,6 +113,8 @@ http://192.168.100.1:6777/udp/239.93.1.174:5140?/云南卫视-HD
 http://192.168.100.1:6777/udp/239.93.0.124:5140?/浙江卫视-HD
 #EXTINF:-1 tvg-id="湖南金鷹卡通" tvg-name="湖南金鷹卡通" tvg-logo="https://live.fanmingming.cn/tv/湖南金鷹卡通.png", 湖南金鷹卡通
 http://192.168.100.1:6777/udp/239.93.0.5:5140?/湖南金鷹卡通
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png", 凤凰卫视资讯台
+http://192.168.100.1:6777/udp/239.93.0.118:2191?/凤凰卫视资讯台
 #EXTINF:-1 tvg-id="4K乐享超清" tvg-name="4K乐享超清-UHD" tvg-logo="https://live.fanmingming.cn/tv/4K乐享超清.png", 4K乐享超清-UHD
 http://192.168.100.1:6777/udp/239.93.0.43:5140?/4K乐享超清-UHD
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K-UHD" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png", 爱上4K-UHD
