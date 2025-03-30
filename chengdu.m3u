@@ -1,33 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV-01" tvg-name="CCTV-01-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-01.png", CCTV-01-HD
-http://192.168.100.1:6777/udp/239.93.0.58:5140?/CCTV-01-HD
-#EXTINF:-1 tvg-id="CCTV-02" tvg-name="CCTV-02-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-02.png", CCTV-02-HD
-http://192.168.100.1:6777/udp/239.93.0.59:5140?/CCTV-02-HD
-#EXTINF:-1 tvg-id="CCTV-03" tvg-name="CCTV-03-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-03.png", CCTV-03-HD
-http://192.168.100.1:6777/udp/239.93.0.109:5140?/CCTV-03-HD
-#EXTINF:-1 tvg-id="CCTV-03" tvg-name="CCTV-03-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-03.png", CCTV-03-HD
-http://192.168.100.1:6777/udp/239.93.1.158:4120?/CCTV-03-HD
-#EXTINF:-1 tvg-id="CCTV-04" tvg-name="CCTV-04-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-04.png", CCTV-04-HD
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png", CCTV1-HD
+http://192.168.100.1:6777/udp/239.93.0.58:5140?/CCTV1-HD
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png", CCTV2-HD
+http://192.168.100.1:6777/udp/239.93.0.59:5140?/CCTV2-HD
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png", CCTV-03-HD
+http://192.168.100.1:6777/udp/239.93.0.109:5140?/CCTV3-HD
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png", CCTV-04-HD
 http://192.168.100.1:6777/udp/239.93.0.60:5140?/CCTV-04-HD
-#EXTINF:-1 tvg-id="CCTV-05" tvg-name="CCTV-05-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-05.png", CCTV-05-HD
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png", CCTV-05-HD
 http://192.168.100.1:6777/udp/239.93.1.61:5140?/CCTV-05-HD
-#EXTINF:-1 tvg-id="CCTV-06" tvg-name="CCTV-06-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-06.png", CCTV-06-HD
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png", CCTV-06-HD
 http://192.168.100.1:6777/udp/239.93.1.60:5140?/CCTV-06-HD
-#EXTINF:-1 tvg-id="CCTV-07" tvg-name="CCTV-07-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-07.png", CCTV-07-HD
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png", CCTV-07-HD
 http://192.168.100.1:6777/udp/239.93.0.61:5140?/CCTV-07-HD
-#EXTINF:-1 tvg-id="CCTV-08" tvg-name="CCTV-08-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-08.png", CCTV-08-HD
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png", CCTV-08-HD
 http://192.168.100.1:6777/udp/239.93.1.56:5140?/CCTV-08-HD
-#EXTINF:-1 tvg-id="CCTV-09" tvg-name="CCTV-09-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-09.png", CCTV-09-HD
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png", CCTV-09-HD
 http://192.168.100.1:6777/udp/239.93.0.2:5140?/CCTV-09-HD
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-10.png", CCTV-10-HD
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png", CCTV-10-HD
 http://192.168.100.1:6777/udp/239.93.0.63:5140?/CCTV-10-HD
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-11.png", CCTV-11-HD
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png", CCTV-11-HD
 http://192.168.100.1:6777/udp/239.93.0.102:5140?/CCTV-11-HD
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-12.png", CCTV-12-HD
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png", CCTV-12-HD
 http://192.168.100.1:6777/udp/239.93.0.65:5140?/CCTV-12-HD
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-13.png", CCTV-13-HD
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png", CCTV-13-HD
 http://192.168.100.1:6777/udp/239.93.0.99:5140?/CCTV-13-HD
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17-HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV-17.png", CCTV-17-HD
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png", CCTV-17-HD
 http://192.168.100.1:6777/udp/239.93.0.92:5140?/CCTV-17-HD
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视-UHD(HDR)" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png", 北京卫视-UHD(HDR)
 http://192.168.100.1:6777/udp/239.93.42.102:5140?/北京卫视-UHD(HDR)
