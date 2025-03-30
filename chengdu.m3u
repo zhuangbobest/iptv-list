@@ -25,16 +25,18 @@ http://192.168.100.1:6777/udp/239.93.0.102:5140?/CCTV-11-HD
 http://192.168.100.1:6777/udp/239.93.0.65:5140?/CCTV-12-HD
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png", CCTV-13-HD
 http://192.168.100.1:6777/udp/239.93.0.99:5140?/CCTV-13-HD
-#EXTINF:-1 tvg-id="央视少儿" tvg-name="央视少儿" tvg-logo="https://live.fanmingming.cn/tv/央视少儿.png", 央视少儿
+#EXTINF:-1 tvg-id="央视少儿" tvg-name="央视少儿" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png", 央视少儿
 http://192.168.100.1:6777/udp/239.93.1.29:6000?/央视少儿
+#EXTINF:-1 tvg-id="央视音乐" tvg-name="央视音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png", 央视音乐
+http://192.168.100.1:6777/udp/239.93.0.103:5140?/央视音乐
+#EXTINF:-1 tvg-id="央视奥运超高清" tvg-name="央视奥运超高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png", 央视奥运超高清
+http://192.168.100.1:6777/udp/239.93.42.54:5140?/央视奥运超高清
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png", CCTV-17-HD
+http://192.168.100.1:6777/udp/239.93.0.92:5140?/CCTV-17-HD
 #EXTINF:-1 tvg-id="CCTV4歐洲台" tvg-name="CCTV4歐洲台" tvg-logo="https://live.fanmingming.cn/tv/CCTV4歐洲台.png", CCTV-04-歐洲台-HD
 http://192.168.100.1:6777/udp/239.93.1.232:5140?/CCTV4歐洲台
 #EXTINF:-1 tvg-id="央视体育赛事" tvg-name="央视体育赛事" tvg-logo="https://live.fanmingming.cn/tv/央视体育赛事.png", 央视体育赛事
 http://192.168.100.1:6777/udp/239.93.1.36:8004?/央视体育赛事
-#EXTINF:-1 tvg-id="央视奥运超高清" tvg-name="央视奥运超高清" tvg-logo="https://live.fanmingming.cn/tv/央视奥运超高清.png", 央视奥运超高清
-http://192.168.100.1:6777/udp/239.93.42.54:5140?/央视奥运超高清
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png", CCTV-17-HD
-http://192.168.100.1:6777/udp/239.93.0.92:5140?/CCTV-17-HD
 #EXTINF:-1 tvg-id="中國天氣" tvg-name="中國天氣" tvg-logo="https://live.fanmingming.cn/tv/中國天氣.png", 中國天氣-HD
 http://192.168.100.1:6777/udp/239.93.42.66:5140?/中國天氣
 #EXTINF:-1 tvg-id="央视4K超高清" tvg-name="央视4K超高清" tvg-logo="https://live.fanmingming.cn/tv/央视4K超高清.png", 央视4K超高清
