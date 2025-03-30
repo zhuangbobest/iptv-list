@@ -205,20 +205,6 @@ http://192.168.100.1:6777/udp/239.93.0.144:5140?/BESTV-戏曲精选-HD
 http://192.168.100.1:6777/udp/239.93.42.66:5140?/中国天气
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场-HD" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png", 都市剧场-HD
 http://192.168.100.1:6777/udp/239.93.42.30:5140?/都市剧场-HD
-#EXTINF:-1 tvg-id="电信导视" tvg-name="电信导视-HD" tvg-logo="https://live.fanmingming.cn/tv/电信导视.png", 电信导视-HD
-http://192.168.100.1:6777/udp/239.93.0.110:5140?/电信导视-HD
-#EXTINF:-1 tvg-id="电信导视" tvg-name="电信导视-HD" tvg-logo="https://live.fanmingming.cn/tv/电信导视.png", 电信导视-HD
-http://192.168.100.1:6777/udp/239.93.42.59:5140?/电信导视-HD
-#EXTINF:-1 tvg-id="电信导视" tvg-name="电信导视-HD" tvg-logo="https://live.fanmingming.cn/tv/电信导视.png", 电信导视-HD
-http://192.168.100.1:6777/udp/239.93.42.64:5140?/电信导视-HD
-#EXTINF:-1 tvg-id="电信导视" tvg-name="电信导视-HD" tvg-logo="https://live.fanmingming.cn/tv/电信导视.png", 电信导视-HD
-http://192.168.100.1:6777/udp/239.93.42.65:5140?/电信导视-HD
-#EXTINF:-1 tvg-id="电信导视" tvg-name="电信导视-HD" tvg-logo="https://live.fanmingming.cn/tv/电信导视.png", 电信导视-HD
-http://192.168.100.1:6777/udp/239.93.42.69:5140?/电信导视-HD
-#EXTINF:-1 tvg-id="电信直播" tvg-name="电信直播-HD" tvg-logo="https://live.fanmingming.cn/tv/电信直播.png", 电信直播-HD
-http://192.168.100.1:6777/udp/239.93.1.245:5140?/电信直播-HD
-#EXTINF:-1 tvg-id="电信直播" tvg-name="电信直播-HD" tvg-logo="https://live.fanmingming.cn/tv/电信直播.png", 电信直播-HD
-http://192.168.100.1:6777/udp/239.93.1.246:5140?/电信直播-HD
 #EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂-HD" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png", 电竞天堂-HD
 http://192.168.100.1:6777/udp/239.93.1.135:5140?/电竞天堂-HD
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场-HD" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png", 风云剧场-HD
