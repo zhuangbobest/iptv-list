@@ -33,8 +33,6 @@ http://192.168.100.1:6777/udp/239.93.0.103:5140?/央视音乐
 http://192.168.100.1:6777/udp/239.93.42.54:5140?/央视奥运超高清
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png", CCTV-17-HD
 http://192.168.100.1:6777/udp/239.93.0.92:5140?/CCTV-17-HD
-#EXTINF:-1 tvg-id="CCTV4歐洲台" tvg-name="CCTV4歐洲台" tvg-logo="https://live.fanmingming.cn/tv/CCTV4歐洲台.png", CCTV-04-歐洲台-HD
-http://192.168.100.1:6777/udp/239.93.1.232:5140?/CCTV4歐洲台
 #EXTINF:-1 tvg-id="央视体育赛事" tvg-name="央视体育赛事" tvg-logo="https://live.fanmingming.cn/tv/央视体育赛事.png", 央视体育赛事
 http://192.168.100.1:6777/udp/239.93.1.36:8004?/央视体育赛事
 #EXTINF:-1 tvg-id="中國天氣" tvg-name="中國天氣" tvg-logo="https://live.fanmingming.cn/tv/中國天氣.png", 中國天氣-HD
